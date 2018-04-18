@@ -1,0 +1,1 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dc4a26be7fb64e9b8c8333edb1b092fe)](https://www.codacy.com/app/guilhermetqn/SWFMemoryDumper?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guicvs/SWFMemoryDumper&amp;utm_campaign=Badge_Grade)
